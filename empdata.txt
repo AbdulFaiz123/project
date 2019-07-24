@@ -1,0 +1,10 @@
+1,lakshman,m.tech,80000,cse
+2,faiz,b.tech,90000,ise
+3,akku,phd,25000,ise
+4,pratheeksha,b.tech,9000,ece
+5,shre,m.tech,100000,ise
+1,lak,m.tech,9000,cse
+2,faz,b.tech,70000,ise
+3,ak,phd,45000,ise
+4,pratheek,b.tech,10000,ece
+5,she,m.tech,100000,ise
